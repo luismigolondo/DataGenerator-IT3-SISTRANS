@@ -1,0 +1,6 @@
+reservas servicios 200145 -------- Necesita programa para ids
+reservas mantenimientos 101312 ---Se divide en dos uno para habitaciones y otro para servicios--- Programa para ids 
+reservas habitaciones 201145 ----- Necesita programa para ids
+reservas convenciones 107142 ----Se divide en dos uno para habitaciones y otro para servicios(3000)---- Necesita programa para ids y programa para generar los 3000 servicios desde cero (sin mockaroo).
+gastos 245599 --- Necesita programa para ids
+clientes 142857 --- Necesita programa para ids empezando desde 301 de empleado

@@ -1,0 +1,9 @@
+reservas servicios 200145
+reservas mantenimientos 101312
+reservas habitaciones 201145
+reservas convenciones 107142
+habitaciones 1200
+gastos 245599
+empleados 300
+convenciones 300
+clientes 142857
