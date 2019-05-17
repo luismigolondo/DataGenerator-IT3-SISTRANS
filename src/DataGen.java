@@ -139,7 +139,7 @@ public class DataGen {
 		int id_convencion = (int)(Math.random() * ((300) + 1));
 		
 		Faker faker = new Faker();
-		String nombre = faker.name().fullName();
+		String nombre = faker.name().firstName();
 		String correo = faker.name().firstName().toLowerCase() + "@gmail.com";
 		
 		row = id + "," + tipo_id + "," + hotel + "," + id_reserva_habitacion + "," + id_reserva_servicio + "," + id_convencion + "," + nombre + "," + correo;
@@ -155,10 +155,10 @@ public class DataGen {
 			//---------------
 			//			row = reservasServicio(i);
 
-			//			if(i <= (cantidad/2) )
-			//				row = reservasMantenimientoHabitaciones(i);
-			//			else
-			//				row = reservasMantenimientoServicios(i);
+//						if(i <= (cantidad/2) )
+//							row = reservasMantenimientoHabitaciones(i);
+//						else
+//							row = reservasMantenimientoServicios(i);
 
 			//			row = reservasHabitaciones(i);
 
